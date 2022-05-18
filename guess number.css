@@ -1,0 +1,49 @@
+#backgrundImage {
+    position: fixed;
+    background-image: url("one.png");
+    width: 1600px;
+    height: 900px;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.1;
+    
+        
+}
+#h1body {
+    color: red;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: center;
+}
+#guessWindoes {
+    
+    position: fixed;
+    left: 500px ;
+    top: 300px;
+}
+#divFrom{
+    position: relative;
+    left: 135px;
+
+}
+#feedback{
+    position: relative;
+    color: rgb(218, 20, 20);
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: center; 
+    font-size: larger;
+    left: 80px;
+    font-family: "b koodak";
+}
+#chance{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(37, 34, 185);
+
+}
+#score{
+    font-size: larger;
+    font-family: "b koodak";
+    position: relative;
+    left: 110px;
+}
